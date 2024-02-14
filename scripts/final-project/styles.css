@@ -1,0 +1,35 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('https://img.freepik.com/free-photo/falls-long-exposure-wildlife-nature-hill-station_1376-17.jpg?size=626&ext=jpg&ga=GA1.1.1565636783.1707852206&semt=ais'); /* Add the path to your background image here */
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    color: #fff;
+    background-color: blueviolet;
+    font-size: 18px;
+}
+
+/* Update styles.css to style the random quote */
+
+#quote {
+    font-size: 24px;
+    font-style: italic;
+    color: #fff;
+    margin-top: 20px;
+}
+
+h1 {
+    color: brown;
+}
+
